@@ -1,0 +1,3 @@
+C:\Users\CLINTON\Desktop\smith\Algoritmos y Estructura de datos\estructura DE DATOS\listas.cpp:12:1: error: expected initializer before 'int'
+ int main(int argc, char const *argv[]) {
+ ^~~
